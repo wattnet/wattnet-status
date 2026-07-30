@@ -39,15 +39,15 @@ sites:
 
 status-website:
     name: Wattnet Services Status
-    logoUrl: https://wattnet.eu/favicon.ico
-    baseUrl: /wattnet-status
+    logoUrl: https://www.google.com/s2/favicons?domain=wattnet.eu&sz=64
     cname: ""
     favicon: https://wattnet.eu/favicon.ico
     metaDescription: "Real-time status of Wattnet's online services and data sources availability."
     introTitle: >
-        An open-source service for tracking the environmental footprint of electricity across Europe.
+        Tracking Europe's electricity footprint, in real time.
     introMessage: >
         Real-time status of Wattnet's online services and data sources availability.
+    navbar:
         - title: Status
           href: /
         - title: GitHub
