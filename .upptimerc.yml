@@ -1,31 +1,50 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: wattnet
+repo: wattnet-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    # --- Public-facing / user experience ---
+    - name: Wattnet (Main Website)
+      url: https://wattnet.eu
+
+    - name: Auth
+      url: https://auth.wattnet.eu
+
+    - name: API
+      url: https://api.wattnet.eu
+
+    - name: Dashboard
+      url: https://dashboard.wattnet.eu
+
+    - name: Docs
+      url: https://docs.wattnet.eu
+
+    # --- Datasources (public info, open source project) ---
+    - name: ENTSO-E Transparency Platform
+      url: https://web-api.tp.entsoe.eu/api
+      expectedStatusCodes:
+          - 401 # requires a token; a 401 confirms the service is alive and responding normally
+
+    - name: Elexon Insights Solution
+      url: https://data.elexon.co.uk/bmrs/api/v1/datasets/FREQ
+
+    - name: EPIAS Transparency Platform
+      url: https://seffaflik.epias.com.tr/electricity-service/v1/consumption/data/distribution-region
+      method: GET
+      expectedStatusCodes:
+          - 200
+          - 401 # in case this route requires the TGT header depending on environment; adjust after testing
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    name: Wattnet Status
+    cname: "" # leave empty until your DNS is ready
+    favicon: https://wattnet.eu/favicon.ico
+    introTitle: >
+        Real-time status of Wattnet's services and data sources.
+    navbar:
+        - title: Status
+          href: /
+        - title: GitHub
+          href: https://github.com/wattnet/wattnet-status
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+delay-between-runs: 5
+assignees: [] # add your GitHub username here if you want incident issues auto-assigned to you
