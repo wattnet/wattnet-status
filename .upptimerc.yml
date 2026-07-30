@@ -40,6 +40,7 @@ sites:
 status-website:
     name: Wattnet Services Status
     logoUrl: https://www.google.com/s2/favicons?domain=wattnet.eu&sz=64
+    baseUrl: /wattnet-status
     cname: ""
     favicon: https://wattnet.eu/favicon.ico
     metaDescription: "Real-time status of Wattnet's online services and data sources availability."
@@ -53,4 +54,5 @@ status-website:
         - title: GitHub
           href: https://github.com/wattnet/wattnet-status
 delay-between-runs: 5
-assignees: [] # add your GitHub username here if you want incident issues auto-assigned to you
+assignees:
+    - jaimeib
