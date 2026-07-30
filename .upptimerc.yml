@@ -31,11 +31,7 @@ sites:
       icon: https://www.google.com/s2/favicons?domain=elexon.co.uk&sz=64
 
     - name: EPIAS Transparency Platform
-      url: https://seffaflik.epias.com.tr/electricity-service/v1/consumption/data/distribution-region
-      method: GET
-      expectedStatusCodes:
-          - 200
-          - 401 # in case this route requires the TGT header depending on environment; adjust after testing
+      url: https://seffaflik.epias.com.tr/electricity-service/technical/tr/index.html
 
 status-website:
     name: Wattnet Services Status
