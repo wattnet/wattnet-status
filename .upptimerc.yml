@@ -39,7 +39,7 @@ sites:
 
 status-website:
     name: Wattnet Services Status
-    logoUrl: https://wattnet.eu/favicon.ico # 👈 replace with the path to your actual logo image if different from the favicon
+    logoUrl: https://wattnet.eu/favicon.ico
     baseUrl: /wattnet-status
     cname: ""
     favicon: https://wattnet.eu/favicon.ico
