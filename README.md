@@ -1,3 +1,15 @@
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github.com/wattnet/.github/raw/main/images/wattnet-logo-full-dark-transparent-cropped.png" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github.com/wattnet/.github/raw/main/images/wattnet-logo-full-light-transparent-cropped.png" />
+    <img src="https://github.com/wattnet/.github/raw/main/images/wattnet-logo-full-light-transparent-cropped.png"
+         alt="Wattnet Logo"
+         width="300" />
+  </picture>
+</div>
+
 # [📈 Live Status](https://status.wattnet.eu): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Wattnet](https://wattnet.eu), powered by [Upptime](https://github.com/upptime/upptime).
@@ -27,10 +39,12 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+[**Visit our status website →**](https://status.wattnet.eu)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+
+##### © 2026 Spanish National Research Council (CSIC). All rights reserved.
