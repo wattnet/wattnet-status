@@ -39,7 +39,8 @@ sites:
 
 status-website:
     name: Wattnet Status
-    cname: "" # leave empty until your DNS is ready
+    baseUrl: /wattnet-status
+    cname: ""
     favicon: https://wattnet.eu/favicon.ico
     introTitle: >
         Real-time status of Wattnet's services and data sources.
