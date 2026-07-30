@@ -3,19 +3,19 @@ repo: wattnet-status
 
 sites:
     # --- Public-facing / user experience ---
-    - name: Wattnet (Main Website)
+    - name: Wattnet Website
       url: https://wattnet.eu
 
-    - name: Auth
+    - name: Authentication Service
       url: https://auth.wattnet.eu
 
-    - name: API
+    - name: API Service
       url: https://api.wattnet.eu
 
-    - name: Dashboard
+    - name: Web Dashboard
       url: https://dashboard.wattnet.eu
 
-    - name: Docs
+    - name: Documentation
       url: https://docs.wattnet.eu
 
     # --- Datasources (public info, open source project) ---
