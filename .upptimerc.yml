@@ -8,6 +8,7 @@ sites:
 
     - name: Authentication Service
       url: https://auth.wattnet.eu
+      icon: https://www.google.com/s2/favicons?domain=wattnet.eu&sz=64
 
     - name: API Service
       url: https://api.wattnet.eu
@@ -23,9 +24,11 @@ sites:
       url: https://web-api.tp.entsoe.eu/api
       expectedStatusCodes:
           - 401 # requires a token; a 401 confirms the service is alive and responding normally
+      icon: https://www.google.com/s2/favicons?domain=entsoe.eu&sz=64
 
     - name: Elexon Insights Solution
       url: https://data.elexon.co.uk/bmrs/api/v1/datasets/FREQ
+      icon: https://www.google.com/s2/favicons?domain=elexon.co.uk&sz=64
 
     - name: EPIAS Transparency Platform
       url: https://seffaflik.epias.com.tr/electricity-service/v1/consumption/data/distribution-region
