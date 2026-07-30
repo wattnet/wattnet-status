@@ -38,17 +38,19 @@ sites:
           - 401 # in case this route requires the TGT header depending on environment; adjust after testing
 
 status-website:
-    name: Wattnet Status
+    name: Wattnet Services Status
+    logoUrl: https://wattnet.eu/favicon.ico # 👈 replace with the path to your actual logo image if different from the favicon
     baseUrl: /wattnet-status
     cname: ""
     favicon: https://wattnet.eu/favicon.ico
+    metaDescription: "Real-time status of Wattnet's online services and data sources availability."
     introTitle: >
-        Real-time status of Wattnet's services and data sources.
-    navbar:
+        An open-source service for tracking the environmental footprint of electricity across Europe.
+    introMessage: >
+        Real-time status of Wattnet's online services and data sources availability.
         - title: Status
           href: /
         - title: GitHub
           href: https://github.com/wattnet/wattnet-status
-
 delay-between-runs: 5
 assignees: [] # add your GitHub username here if you want incident issues auto-assigned to you
