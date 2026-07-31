@@ -130,20 +130,20 @@
     "url": "https://seffaflik.epias.com.tr/electricity-service/technical/tr/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/seffaflik.epias.com.tr.ico",
     "slug": "epias-transparency-platform",
-    "status": "down",
-    "uptime": "93.44%",
-    "uptimeDay": "95.92%",
-    "uptimeWeek": "93.44%",
-    "uptimeMonth": "93.44%",
-    "uptimeYear": "93.44%",
-    "time": 3803,
-    "timeDay": 11250,
-    "timeWeek": 3803,
-    "timeMonth": 3803,
-    "timeYear": 3803,
+    "status": "up",
+    "uptime": "89.50%",
+    "uptimeDay": "90.19%",
+    "uptimeWeek": "89.50%",
+    "uptimeMonth": "89.50%",
+    "uptimeYear": "89.50%",
+    "time": 4291,
+    "timeDay": 10884,
+    "timeWeek": 4291,
+    "timeMonth": 4291,
+    "timeYear": 4291,
     "dailyMinutesDown": {
       "2026-07-30": 123,
-      "2026-07-31": 0
+      "2026-07-31": 83
     }
   }
 ]
