@@ -32,6 +32,9 @@ sites:
 
     - name: EPIAS Transparency Platform
       url: https://seffaflik.epias.com.tr/electricity-service/technical/tr/index.html
+      type: globalping
+      globalpingOptions:
+          location: "Europe"
 
 status-website:
     name: Wattnet Services Status
