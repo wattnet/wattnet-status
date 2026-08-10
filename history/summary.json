@@ -4,81 +4,89 @@
     "url": "https://wattnet.eu",
     "icon": "https://icons.duckduckgo.com/ip3/wattnet.eu.ico",
     "slug": "wattnet-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 875,
     "timeDay": 734,
     "timeWeek": 913,
     "timeMonth": 875,
     "timeYear": 875,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-10": 20
+    }
   },
   {
     "name": "Authentication Service",
     "url": "https://auth.wattnet.eu",
     "icon": "https://www.google.com/s2/favicons?domain=wattnet.eu&sz=64",
     "slug": "authentication-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1527,
     "timeDay": 1002,
     "timeWeek": 1621,
     "timeMonth": 1527,
     "timeYear": 1527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-10": 15
+    }
   },
   {
     "name": "API Service",
     "url": "https://api.wattnet.eu",
     "icon": "https://icons.duckduckgo.com/ip3/api.wattnet.eu.ico",
     "slug": "api-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1206,
     "timeDay": 921,
     "timeWeek": 1228,
     "timeMonth": 1206,
     "timeYear": 1206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-10": 10
+    }
   },
   {
     "name": "Web Dashboard",
     "url": "https://dashboard.wattnet.eu",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.wattnet.eu.ico",
     "slug": "web-dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 539,
     "timeDay": 393,
     "timeWeek": 555,
     "timeMonth": 539,
     "timeYear": 539,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-10": 5
+    }
   },
   {
     "name": "Documentation",
     "url": "https://docs.wattnet.eu",
     "icon": "https://icons.duckduckgo.com/ip3/docs.wattnet.eu.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +95,9 @@
     "timeWeek": 683,
     "timeMonth": 633,
     "timeYear": 633,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-10": 0
+    }
   },
   {
     "name": "ENTSO-E Transparency Platform",
