@@ -1,7 +1,7 @@
 url: https://dashboard.wattnet.eu
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-10T15:59:22.195Z
+status: up
+code: 200
+responseTime: 372
+lastUpdated: 2026-08-10T18:34:31.347Z
 startTime: 2026-07-30T11:56:29.472Z
 generator: Upptime <https://github.com/upptime/upptime>
