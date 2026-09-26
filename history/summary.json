@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 908,
-    "timeDay": 743,
-    "timeWeek": 1079,
-    "timeMonth": 983,
-    "timeYear": 908,
+    "time": 904,
+    "timeDay": 608,
+    "timeWeek": 1054,
+    "timeMonth": 976,
+    "timeYear": 904,
     "dailyMinutesDown": {
       "2026-08-10": 228
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1642,
-    "timeDay": 1734,
-    "timeWeek": 1669,
-    "timeMonth": 1624,
-    "timeYear": 1642,
+    "time": 1639,
+    "timeDay": 1407,
+    "timeWeek": 1671,
+    "timeMonth": 1618,
+    "timeYear": 1639,
     "dailyMinutesDown": {
       "2026-08-10": 165
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wattnet.eu.ico",
     "slug": "api-service",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 1219,
-    "timeDay": 1210,
-    "timeWeek": 1176,
-    "timeMonth": 1231,
-    "timeYear": 1219,
+    "uptimeYear": "99.81%",
+    "time": 1216,
+    "timeDay": 1061,
+    "timeWeek": 1161,
+    "timeMonth": 1225,
+    "timeYear": 1216,
     "dailyMinutesDown": {
       "2026-08-10": 160
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 545,
-    "timeDay": 497,
-    "timeWeek": 641,
-    "timeMonth": 581,
-    "timeYear": 545,
+    "time": 547,
+    "timeDay": 677,
+    "timeWeek": 636,
+    "timeMonth": 586,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2026-08-10": 155
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 700,
-    "timeDay": 471,
-    "timeWeek": 610,
-    "timeMonth": 733,
-    "timeYear": 700,
+    "time": 696,
+    "timeDay": 428,
+    "timeWeek": 594,
+    "timeMonth": 716,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2026-08-10": 150
     }
@@ -105,16 +105,16 @@
     "icon": "https://www.google.com/s2/favicons?domain=entsoe.eu&sz=64",
     "slug": "entso-e-transparency-platform",
     "status": "up",
-    "uptime": "92.93%",
+    "uptime": "93.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.84%",
-    "uptimeYear": "92.93%",
-    "time": 3281,
-    "timeDay": 580,
-    "timeWeek": 1763,
-    "timeMonth": 5540,
-    "timeYear": 3281,
+    "uptimeYear": "93.06%",
+    "time": 3241,
+    "timeDay": 384,
+    "timeWeek": 1756,
+    "timeMonth": 5532,
+    "timeYear": 3241,
     "dailyMinutesDown": {
       "2026-09-02": 1034,
       "2026-09-01": 1440,
@@ -135,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1145,
-    "timeDay": 1055,
-    "timeWeek": 1065,
-    "timeMonth": 1124,
-    "timeYear": 1145,
+    "time": 1143,
+    "timeDay": 1013,
+    "timeWeek": 1063,
+    "timeMonth": 1111,
+    "timeYear": 1143,
     "dailyMinutesDown": {}
   },
   {
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2137,
-    "timeDay": 265,
-    "timeWeek": 357,
+    "time": 2114,
+    "timeDay": 413,
+    "timeWeek": 355,
     "timeMonth": 424,
-    "timeYear": 2137,
+    "timeYear": 2114,
     "dailyMinutesDown": {}
   }
 ]
