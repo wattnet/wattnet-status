@@ -46,7 +46,6 @@ sites:
 status-website:
     name: Wattnet Services Status
     logoUrl: https://raw.githubusercontent.com/wattnet/wattnet-status/master/assets/wattnet-logo.png
-    baseUrl: /
     cname: status.wattnet.eu
     favicon: https://wattnet.eu/favicon.ico
     customHeadHtml: |
