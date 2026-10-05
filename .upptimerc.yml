@@ -19,6 +19,13 @@ sites:
     - name: Documentation
       url: https://docs.wattnet.eu
 
+    # --- Monitoring / analytics ---
+    - name: Grafana
+      url: https://grafana.wattnet.eu
+
+    - name: Analytics
+      url: https://analytics.wattnet.eu
+
     # --- Datasources (public info, open source project) ---
     - name: ENTSO-E Transparency Platform
       url: https://web-api.tp.entsoe.eu/api
@@ -42,6 +49,13 @@ status-website:
     baseUrl: /wattnet-status
     cname: ""
     favicon: https://wattnet.eu/favicon.ico
+    customHeadHtml: |
+        <!-- Privacy-friendly analytics by Plausible -->
+        <script async src="https://analytics.wattnet.eu/js/pa-tMVXfi2LVCcWQkK9duXzB.js"></script>
+        <script>
+          window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+          plausible.init()
+        </script>
     metaDescription: "Real-time status of Wattnet's online services and data sources availability."
     introTitle: >
         Tracking Europe's electricity footprint, in real time.
