@@ -144,17 +144,17 @@
     "url": "https://web-api.tp.entsoe.eu/api",
     "icon": "https://www.google.com/s2/favicons?domain=entsoe.eu&sz=64",
     "slug": "entso-e-transparency-platform",
-    "status": "down",
-    "uptime": "94.87%",
-    "uptimeDay": "91.52%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "94.87%",
-    "time": 3435,
-    "timeDay": 16543,
-    "timeWeek": 8156,
-    "timeMonth": 3418,
-    "timeYear": 3435,
+    "status": "up",
+    "uptime": "94.75%",
+    "uptimeDay": "81.29%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "94.75%",
+    "time": 3483,
+    "timeDay": 13771,
+    "timeWeek": 8163,
+    "timeMonth": 3555,
+    "timeYear": 3483,
     "dailyMinutesDown": {
       "2026-09-02": 1034,
       "2026-09-01": 1440,
@@ -162,7 +162,7 @@
       "2026-08-30": 269,
       "2026-09-08": 1055,
       "2026-09-07": 526,
-      "2026-10-18": 122
+      "2026-10-18": 269
     }
   },
   {
