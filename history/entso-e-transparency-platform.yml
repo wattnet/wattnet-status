@@ -1,7 +1,7 @@
 url: https://web-api.tp.entsoe.eu/api
-status: up
-code: 401
-responseTime: 4566
-lastUpdated: 2026-10-22T01:09:57.509Z
+status: down
+code: 599
+responseTime: 5378
+lastUpdated: 2026-10-22T13:07:07.070Z
 startTime: 2026-07-30T11:33:35.476Z
 generator: Upptime <https://github.com/upptime/upptime>
