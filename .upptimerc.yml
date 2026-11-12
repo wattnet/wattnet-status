@@ -44,7 +44,7 @@ sites:
           location: "Europe"
 
 status-website:
-    name: Wattnet Services Status
+    name: Wattnet | Status
     logoUrl: https://raw.githubusercontent.com/wattnet/wattnet-status/master/assets/wattnet-logo.png
     cname: status.wattnet.eu
     favicon: https://wattnet.eu/favicon.ico
