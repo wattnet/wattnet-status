@@ -145,11 +145,11 @@
     "icon": "https://www.google.com/s2/favicons?domain=entsoe.eu&sz=64",
     "slug": "entso-e-transparency-platform",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "95.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.72%",
-    "uptimeYear": "95.88%",
+    "uptimeYear": "95.89%",
     "time": 3848,
     "timeDay": 10191,
     "timeWeek": 5818,
@@ -189,9 +189,9 @@
     "url": "https://seffaflik.epias.com.tr/electricity-service/technical/tr/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/seffaflik.epias.com.tr.ico",
     "slug": "epias-transparency-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -200,6 +200,8 @@
     "timeWeek": 355,
     "timeMonth": 361,
     "timeYear": 1393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-14": 0
+    }
   }
 ]
