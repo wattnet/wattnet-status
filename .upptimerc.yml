@@ -11,10 +11,18 @@ sites:
       icon: https://www.google.com/s2/favicons?domain=wattnet.eu&sz=64
 
     - name: API Gateway
-      url: https://api.wattnet.eu
+      url: https://api.wattnet.eu/v1/docs
+
+    - name: MCP Server
+      url: https://mcp.wattnet.eu/mcp
+      expectedStatusCodes:
+          - 405 # the endpoint only takes POST with a token; a 405 to a GET confirms the server is alive and responding normally
 
     - name: Web Dashboard
       url: https://dashboard.wattnet.eu
+
+    - name: Developer Portal
+      url: https://developers.wattnet.eu
 
     - name: Documentation
       url: https://docs.wattnet.eu
@@ -22,6 +30,9 @@ sites:
     # --- Monitoring / analytics ---
     - name: Grafana
       url: https://grafana.wattnet.eu
+
+    - name: Management Console
+      url: https://console.wattnet.eu
 
     - name: Analytics
       url: https://analytics.wattnet.eu
