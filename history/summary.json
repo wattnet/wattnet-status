@@ -43,7 +43,7 @@
   },
   {
     "name": "API Gateway",
-    "url": "https://api.wattnet.eu",
+    "url": "https://api.wattnet.eu/v1/docs",
     "icon": "https://icons.duckduckgo.com/ip3/api.wattnet.eu.ico",
     "slug": "api-gateway",
     "status": "up",
@@ -58,6 +58,26 @@
     "timeMonth": 1114,
     "timeYear": 1114,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "MCP Server",
+    "url": "https://mcp.wattnet.eu/mcp",
+    "icon": "https://icons.duckduckgo.com/ip3/mcp.wattnet.eu.ico",
+    "slug": "mcp-server",
+    "status": "up",
+    "uptime": "16.46%",
+    "uptimeDay": "16.46%",
+    "uptimeWeek": "16.46%",
+    "uptimeMonth": "16.46%",
+    "uptimeYear": "16.46%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-11-26": 1
+    }
   },
   {
     "name": "Web Dashboard",
@@ -77,6 +97,26 @@
     "timeYear": 544,
     "dailyMinutesDown": {
       "2026-08-10": 155
+    }
+  },
+  {
+    "name": "Developer Portal",
+    "url": "https://developers.wattnet.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/developers.wattnet.eu.ico",
+    "slug": "developer-portal",
+    "status": "up",
+    "uptime": "21.78%",
+    "uptimeDay": "21.78%",
+    "uptimeWeek": "21.78%",
+    "uptimeMonth": "21.78%",
+    "uptimeYear": "21.78%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-11-26": 1
     }
   },
   {
@@ -120,6 +160,26 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Management Console",
+    "url": "https://console.wattnet.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/console.wattnet.eu.ico",
+    "slug": "management-console",
+    "status": "up",
+    "uptime": "27.77%",
+    "uptimeDay": "27.77%",
+    "uptimeWeek": "27.77%",
+    "uptimeMonth": "27.77%",
+    "uptimeYear": "27.77%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-11-26": 1
+    }
+  },
+  {
     "name": "Analytics",
     "url": "https://analytics.wattnet.eu",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.wattnet.eu.ico",
@@ -143,11 +203,11 @@
     "icon": "https://www.google.com/s2/favicons?domain=entsoe.eu&sz=64",
     "slug": "entso-e-transparency-platform",
     "status": "up",
-    "uptime": "96.30%",
+    "uptime": "96.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.30%",
+    "uptimeYear": "96.32%",
     "time": 4197,
     "timeDay": 3366,
     "timeWeek": 8019,
